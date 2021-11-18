@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MyPiscokBengBeng</string>
+    <string name="snack_piscok">Snack Piscok Beng-Beng</string>
+    <string name="snack_kripik_sukun">Snack Kripik Sukun</string>
+
+    <string name="content_text">Makanan Piscok ini merupakan
+        makanan jajanan yang cocok dijadikan snack makanan
+        selain enak, piscok ini juga banyak sekali diminati
+        baik dari kalangan anak muda hingga kalangan dewasa.
+        bahan yang digunakan dalam pembuatan piscok yaitu
+        pisang raja, coklat, margarin dan sebagainya dan alat
+        yang akan digunakan diantaranya ialah kompor gas, kuali,
+        gas, dan sebagainya. selain enak piscok juga mudah untuk dibuat.
+        Ayo pesan sekarang Piscok beng-beng!!</string>
+
+    <string name="content_specs_bahan">Pisang\margarin
+    coklat\n susu coklat\n beng-beng</string>
+
+    <string name="content_specs_harga"> Box isi 5 = 8000
+    \n Box isi 10 = 15000 \n Box isi 20 = 50000</string>
+
+    <string name="content_specs_lengkap">50 Box
+        piscok beng-beng\n
+        Standby time (LTE): setiap hari\n
+        Pemesanan : melalui WhatsApp\n
+        Alamat Penjualan : jl. Tanjung Jalay\n
+        Pengantaran : COD\n
+         </string>
+
+    <string name="stock">Stock hanya 100 Box</string>
+    <string name="specification">Spesifikasi Piscok Beng-beng</string>
+    <string name="bahan">Bahan</string>
+    <string name="harga">Harga</string>
+    <string name="lengkap">Kelengkapan</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Septi Melia</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 8000k</string>
+    <string name="dummy_photos">6 photos</string>
+
+    <string name="text_awal">Snack kripik sukun merupakan jajanan yang biasanya dimakan
+        diwaktu santai, makanan yang berbahan dasan sukun ini enak sekali dibuat kripik.
+        sangat nikmat sekali
+        Ayo pesan sekarang Snack Kripik Sukun!!</string>
+
+    <string name="text_bahan_makanan">Sukun\varian rasa
+    minyak\n susu margarin\n dan lainya</string>
+
+    <string name="text_harga"> Box isi 5 = 8000
+    \n Box isi 10 = 15000 \n Box isi 20 = 50000</string>
+
+    <string name="text_lengkap">50 Box
+        piscok beng-beng\n
+        Standby time (LTE): setiap hari\n
+        Pemesanan : melalui WhatsApp\n
+        Alamat Penjualan : jl. Tanjung Jalay\n
+        Pengantaran : COD\n
+         </string>
+
+    <string name="tersedia">Stock hanya 100 Box</string>
+    <string name="specific">Spesifikasi Piscok Beng-beng</string>
+    <string name="bahan_mkn">Bahan</string>
+    <string name="harga_mkn">Harga</string>
+    <string name="lengkap_mkn">Kelengkapan</string>
+    <string name="jualan">Dijual oleh</string>
+    <string name="nama_saya">Septi Melia</string>
+    <string name="ayo">Beli</string>
+    <string name="dummy_harga">Rp. 8000k</string>
+    <string name="dummy_photo">6 photos</string>
+</resources>
